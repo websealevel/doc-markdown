@@ -49,10 +49,16 @@ Par exemple
 
 ## Ressources
 
+
+### Doc officielle (it's all you need)
+
 - [Toute la documentation sur Markdown](https://www.markdownguide.org)
 - [Apprendre la syntaxe](https://www.markdownguide.org/basic-syntax)
 - [Aller plus loin, syntaxe étendue](https://www.markdownguide.org/extended-syntax/)
 - [Antisèche, toute la syntaxte en un clin d'oeil et sur la même page](https://www.markdownguide.org/cheat-sheet/)
+
+### Extensions et usages
+
 - [Diagrammes en Markdown avec mermaid](https://mermaid-js.github.io/mermaid/#/)
 - [Markdown slides collection tools](https://gist.github.com/johnloy/27dd124ad40e210e91c70dd1c24ac8c8), une collection de programmes pour convertir vos fichiers Markdown en slides pour votre prochaine présentation
 - [With Vimwiki you can](https://vimwiki.github.io/), créez vos wikis directement depuis vim
