@@ -26,9 +26,11 @@ Si l'on veut appliquer des styles au contenu on peut le faire, mais pas de mani�
 - Sa syntaxe est intuitive et on peut l'apprendre en moins de 10 minutes
 - Facilement convertible vers tout un tas de format
 - Fait avant tout pour le web
-- Utilisation dans bcp de contextes : dépots pour les README, wiki, publications webs, documentation
+- Utilisation dans beaucoup de contextes : les fichiers README sur les dépots ou dans les packages, wiki, publications webs, documentation etc...
 - facile à maintenir
 - si simple, si puissant
+
+Cela ne vous aura pas échappé, ce document est lui même écrit en Markdown. Comme tous les README sur tous les dépôts. Et c'est bien utile car tout de suite ces fichiers nous semblent familiers, car ils ont tous les mêmes règles, la même sémantique, le même style par défaut. Ce qui fait qu'on identifie rrapidement les sections, le code, les liens, les listes. Il n'y a pas de ticket d'entrée à payer, comme sur un site web que l'on découvre. Et on va directement à ce qui nous intéresse, le contenu. Et c'est pour ça qu'on est là avant tout sur le web, pour accéder à du contenu.
 
 ## Hyperliens, relier tous vos documents entre eux
 
