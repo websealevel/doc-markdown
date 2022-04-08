@@ -20,6 +20,10 @@ La mise en forme et le contenu sont deux choses différentes. Markdown propose, 
 
 Si l'on veut appliquer des styles au contenu on peut le faire, mais pas de manière native à Markdown car ce n'est pas dans son cachier des charges. C'est comme pour le HTML et le CSS, ou le XML et le XLS. Ou Latex.
 
+Cela ne vous aura pas échappé, ce document est lui même écrit en Markdown. Comme tous les README sur tous les dépôts. Et c'est bien utile car tout de suite ces fichiers nous semblent familiers, car ils ont tous les mêmes règles, la même sémantique, le même style par défaut. Ce qui fait qu'on identifie rapidement les sections, le code, les liens, les listes. Il n'y a pas de ticket d'entrée à payer, comme sur un site web que l'on découvre. 
+
+Ainsi, on va directement à ce qui nous intéresse, le contenu. Et c'est pour ça qu'on est là avant tout sur le web, pour accéder à du contenu.
+
 ## User friendly
 
 - Facile à lire même dans sa source, contrairement à l'HTML ou le XML
@@ -29,8 +33,6 @@ Si l'on veut appliquer des styles au contenu on peut le faire, mais pas de mani�
 - Utilisation dans beaucoup de contextes : les fichiers README sur les dépots ou dans les packages, wiki, publications webs, documentation etc...
 - facile à maintenir
 - si simple, si puissant
-
-Cela ne vous aura pas échappé, ce document est lui même écrit en Markdown. Comme tous les README sur tous les dépôts. Et c'est bien utile car tout de suite ces fichiers nous semblent familiers, car ils ont tous les mêmes règles, la même sémantique, le même style par défaut. Ce qui fait qu'on identifie rrapidement les sections, le code, les liens, les listes. Il n'y a pas de ticket d'entrée à payer, comme sur un site web que l'on découvre. Et on va directement à ce qui nous intéresse, le contenu. Et c'est pour ça qu'on est là avant tout sur le web, pour accéder à du contenu.
 
 ## Hyperliens, relier tous vos documents entre eux
 
