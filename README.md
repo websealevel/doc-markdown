@@ -2,7 +2,11 @@
 
 ## Tout écrire en Markdown
 
-Trouver le bon moyen de documenter tout un tas de choses. Je viens du Latex. Mais Latex orienté édition papier. Markdown peut etre converti vers
+Trouver le bon moyen de documenter tout un tas de choses. Quand on découvre les langages à markup, sémantiques, comme Latex, on ne peut plus revenir en arrière car on sent qu'on touche du doigt *une forme de vérité*.
+
+ Mais Latex est orienté édition papier, ce qu'il fait à merveille. Pour le web, ou de la documentation, il y a d'autres outils. Markdown en est le maître incontesté, loin devant le HTML.
+
+ Markdown peut etre converti vers
 
 - HTML bien sûr
 - PDF
