@@ -38,9 +38,18 @@ Ainsi, on va directement à ce qui nous intéresse, le contenu. Et c'est pour ç
 - facile à maintenir
 - si simple, si puissant
 
-## Hyperliens, relier tous vos documents entre eux
+## Hyperliens
+
+### Références à une section dans le même document
+
+### Relier tous vos fichiers entre eux
 
 ## Éditeurs markdown
+
+Une liste non exhaustive d'éditeurs markdown ou d'extensions pour éditeur
+
+- ReText
+- All Markdown pour vscode
 
 ## Ecosystème: extension du langage et extensions
 
