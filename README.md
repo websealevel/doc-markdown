@@ -3,15 +3,15 @@
 - [Markdown, Markdown everywhere](#markdown-markdown-everywhere)
   - [Tout écrire en Markdown](#tout-écrire-en-markdown)
   - [*Content first !*](#content-first-)
-  - [User friendly](#user-friendly)
-  - [Hyperliens](#hyperliens)
+  - [Les bienfaits du Markdown](#les-bienfaits-du-markdown)
+  - [Quelques éléments de syntaxe](#quelques-éléments-de-syntaxe)
+    - [Hyperliens](#hyperliens)
     - [Références à une section dans le même document](#références-à-une-section-dans-le-même-document)
     - [Relier tous vos fichiers entre eux](#relier-tous-vos-fichiers-entre-eux)
-  - [Éditeurs markdown](#éditeurs-markdown)
+  - [Éditeurs Markdown](#éditeurs-markdown)
   - [Ressources](#ressources)
     - [Documentation Markdown](#documentation-markdown)
-    - [Extensions et usages](#extensions-et-usages)
-    - [Export](#export)
+    - [Ecosystème : extensions et usages](#ecosystème--extensions-et-usages)
 
 ## Tout écrire en Markdown
 
@@ -35,25 +35,32 @@ Cela ne vous aura pas échappé, ce document est lui même écrit en Markdown. C
 
 Ainsi, on va directement à ce qui nous intéresse, le contenu. Et avant toute chose, si l'on va sur le web c'est pour accéder à du contenu de qualité.
 
-## User friendly
+## Les bienfaits du Markdown
 
-- Facile à lire même dans sa source, contrairement à l'HTML ou le XML
-- Sa syntaxe est intuitive et on peut l'apprendre en moins de 10 minutes
-- Facilement convertible vers tout un tas de format
-- Fait avant tout pour le web
-- Utilisation dans beaucoup de contextes : les fichiers README sur les dépots ou dans les packages, wiki, publications webs, documentation etc...
-- facile à maintenir
+- de simples fichiers textes que l'on peut ouvrir avec n'importe quel éditeur (même dans 50 ans sur du matériel encore inconnu)
+- facile à lire même dans sa source, contrairement à l'HTML ou le XML
+- s'adresse à des personnes techniques ou non. Sa syntaxe est tellement simple et intuitive que l'on peut l'apprendre en moins de 10 minutes
+- facilement convertible vers tout un tas de format. Écrivez une fois, publiez plusieurs fois
+- fait avant tout pour le web
+- facile à maintenir, à versionner
+- facile de collaborer dessus
 - si simple, si puissant
+- extensile. Markdown vient avec tout un écosystème d'outils pour créer des environnement de travail utiles et efficaces
 
-## Hyperliens
+## Quelques éléments de syntaxe
+
+### Hyperliens
 
 ### Références à une section dans le même document
 
 ### Relier tous vos fichiers entre eux
 
-## Éditeurs markdown
 
-Une liste non exhaustive d'éditeurs markdown ou d'extensions pour éditeur
+## Éditeurs Markdown
+
+Nous l'avons dit, les fichiers Markdown sont de simples fichiers textes, et donc éditables avec n'importe quel éditeur texte. Cela dit, quelques éditeurs se sont spécialisés dans le Markdown et offrent des fonctionnalités intéressantes (comme la prévisualisation *à chaud* en HTML de notre document).
+
+Une liste non exhaustive d'éditeurs Markdown ou d'extensions pour éditeur
 
 - [ReText](https://github.com/retext-project/retext)
 - [ghostwriter](https://wereturtle.github.io/ghostwriter/)
@@ -69,7 +76,7 @@ Une liste non exhaustive d'éditeurs markdown ou d'extensions pour éditeur
 - [Aller plus loin, syntaxe étendue](https://www.markdownguide.org/extended-syntax/)
 - [Antisèche, toute la syntaxte en un clin d'oeil et sur la même page](https://www.markdownguide.org/cheat-sheet/)
 
-### Extensions et usages
+### Ecosystème : extensions et usages
 
 - [Diagrammes en Markdown avec mermaid](https://mermaid-js.github.io/mermaid/#/)
 - [Markdown slides collection tools](https://gist.github.com/johnloy/27dd124ad40e210e91c70dd1c24ac8c8), une collection de programmes pour convertir vos fichiers Markdown en slides pour une présentation (nécessite souvent un environnement JS *un peu heavy*)
@@ -78,8 +85,5 @@ Une liste non exhaustive d'éditeurs markdown ou d'extensions pour éditeur
 - [Marpit API](https://marpit-api.marp.app/index.html), l'API de marpit
 - [Poc Marp](https://github.com/websealevel/poc-marp), un *proof of concept* de Marp. Le dépôt propose une synthese des possibilités offertes par l'outil via un exemple pratique et pointe vers de la documentation utile
 - [With Vimwiki you can](https://vimwiki.github.io/), créez vos wikis directement depuis vim, en utilisant des fichiers Markdown
-
-### Export
-
 - [Pandoc: extension pour l'export vers l'HTML](https://pandoc.org/MANUAL.html#extensions)
 - [Pandoc: YAML metadata block](https://pandoc.org/MANUAL.html#extension-yaml_metadata_block), extension Pandoc pour ajouter des metadonnées au document (par exemple pour un export HTML)
