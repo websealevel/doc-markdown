@@ -15,25 +15,15 @@
 
 ## Tout écrire en Markdown
 
-Trouver le bon moyen de documenter tout un tas de choses n'est pas chose aisée au premier abord. Quand on découvre les langages à balises sémantiques, comme [Latex](https://www.latex-project.org/), on ne peut plus revenir en arrière car on sent qu'on touche du doigt *une forme de vérité*: la nécessaire séparation du contenu et de la forme.
+>" Easy to write, easy to read ", la philosophie de Markdown
 
-Mais Latex est orienté édition papier, ce qu'il fait à merveille. Pour le web, ou pour de la documentation, il y a d'autres outils. [Markdown](https://daringfireball.net/projects/markdown/) en est le maître incontesté, loin devant le HTML.
+[Markdown](https://daringfireball.net/projects/markdown) est tout simplement le meilleur outil pour créer de la documentation sur tout ce que vous faites sur votre machine. C'est un langage à balises léger. Il s'agit d'un simple fichier texte que l'on peut ouvrir avec n'importe quel éditeur. Facile à lire, facile à écrire. Il a été pensé originellement pour écrire pour le web.
 
-Markdown peut etre converti vers
+Il est également facile à apprendre, et permet d'exporter votre document vers tout un tas de formats *markup* (HTML, PDF, LaTeX, XML, docx, odt, etc.). Et c'est là où réside tout son intérêt: on écrit **une fois le contenu** et on le **publie plusieurs fois** (vers le web, le papier, une présentation, etc.)
 
-- HTML bien sûr
-- PDF
-- Impression papier à partir du PDF ou HTML
-- JSON
-- XML
-- Latex
-- odt
-- docx
-- etc...
+Lorsque l'on découvre les langages à balises sémantiques, on ne peut plus revenir en arrière, car on sent qu'on touche du doigt *une forme de vérité*: la *nécessaire séparation* du *contenu* et de la *forme*.
 
 ## *Content first !*
-
->"Easy to write, easy to read", la philosophie de Markdown
 
 Dans la tradition du web 1.0, Markdown est *content first*, c'est à dire que le but d'un fichier Markdown est de transmettre de l'information avant tout *via du texte*. Et que cette information soit clairement structurée et présentée, et facilement maintenable.
 
