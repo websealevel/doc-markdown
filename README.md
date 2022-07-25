@@ -82,12 +82,12 @@ Une liste non exhaustive d'éditeurs markdown ou d'extensions pour éditeur
 ### Extensions et usages
 
 - [Diagrammes en Markdown avec mermaid](https://mermaid-js.github.io/mermaid/#/)
-- [Markdown slides collection tools](https://gist.github.com/johnloy/27dd124ad40e210e91c70dd1c24ac8c8), une collection de programmes pour convertir vos fichiers Markdown en slides pour votre prochaine présentation
-- [Marp écosystème](https://marp.app/), ecosystème markdown pour produire des slides à partir de fichiers markdown
-- [Marpit framework](https://marpit.marp.app/), sur quoi est basé marp
-- [Marpit API](https://marpit-api.marp.app/index.html)
+- [Markdown slides collection tools](https://gist.github.com/johnloy/27dd124ad40e210e91c70dd1c24ac8c8), une collection de programmes pour convertir vos fichiers Markdown en slides pour une présentation (nécessite souvent un environnement JS *un peu heavy*)
+- [Marp écosystème](https://marp.app/), écosystème Markdown pour produire des slides à partir de fichiers Markdown
+- [Marpit framework](https://marpit.marp.app/), le programme (le *core*) sur lequel est basé Marp
+- [Marpit API](https://marpit-api.marp.app/index.html), l'API de marpit
 - [Poc Marp](https://github.com/websealevel/poc-marp), un *proof of concept* de Marp. Le dépôt propose une synthese des possibilités offertes par l'outil via un exemple pratique et pointe vers de la documentation utile
-- [With Vimwiki you can](https://vimwiki.github.io/), créez vos wikis directement depuis vim
+- [With Vimwiki you can](https://vimwiki.github.io/), créez vos wikis directement depuis vim, en utilisant des fichiers Markdown
 
 ### Export
 
