@@ -92,3 +92,4 @@ Une liste non exhaustive d'éditeurs markdown ou d'extensions pour éditeur
 ### Export
 
 - [Pandoc: extension pour l'export vers l'HTML](https://pandoc.org/MANUAL.html#extensions)
+- [Pandoc: YAML metadata block](https://pandoc.org/MANUAL.html#extension-yaml_metadata_block), extension Pandoc pour ajouter des metadonnées au document (par exemple pour un export HTML)
