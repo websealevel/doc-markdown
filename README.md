@@ -70,6 +70,7 @@ Une liste non exhaustive d'éditeurs Markdown ou d'extensions pour éditeur :
 
 - [marpit](https://marpit.marp.app/), framework minimal pour créer des présentations en Markdown.
 - [Mark Doc](https://markdoc.io/), superset et framework Markdown, open-source, orienté publication de contenu. L'outil a été développé par Stripe, pour développer et maintenir sa documentation structurée, complexe et de qualité.
+- [Liste des implémentations Markdown](https://github.com/markdown/markdown.github.com/wiki/Implementations), les différentes implémentations ou *parsers* Markdown
 - [Babel Mark 3](https://babelmark.github.io/), la spécification originale de Markdown ([proposée par John Gruber](https://daringfireball.net/projects/markdown/syntax)) n'étant pas complète, de nombreuses implémentations de Markdown existent avec leurs spécificités. [Babel Mark 3](https://babelmark.github.io/) vous permet de comparer le résultat (HTML) de nombreuses implémentations de Markdown  
 - [Marp](https://marp.app/), créer ses diapos dans un écosystème full Markdown. Réutiliser ainsi facilement le contenu structuré de vos présentations pour les publier en PDF ou HTML, ou inversement. Basé sur [Marpit](https://marpit.marp.app/), 
 - [Poc Marp](https://github.com/websealevel/poc-marp), un dépôt simple qui sert de référence sur l'usage de marp
