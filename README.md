@@ -13,7 +13,7 @@
 
 >" Easy to write, easy to read ", la philosophie de Markdown
 
-[Markdown](https://daringfireball.net/projects/markdown) est tout simplement le meilleur outil pour créer de la documentation sur tout ce que vous faites sur votre machine. C'est un langage à balises léger. Il s'agit d'un simple fichier texte que l'on peut ouvrir avec n'importe quel éditeur. Facile à lire, facile à écrire. Il a été pensé originellement pour écrire pour le web.
+[Markdown](https://daringfireball.net/projects/markdown) est tout simplement le meilleur outil pour créer de la documentation sur tout ce que vous faites sur votre machine (journal, base de données personnelles, prise de notes, documents, wiki, etc.). C'est *un langage à balises léger*. Markown est un langage à balise comme le HTML ou le XML, mais il est beaucoup plus simple afin de rendre la source lisible facilement. Il s'agit d'un simple fichier texte que l'on peut ouvrir avec n'importe quel éditeur. Facile à lire, facile à écrire. Il a été pensé originellement pour écrire *pour le web*.
 
 Il est également facile à apprendre, et permet d'exporter votre document vers tout un tas de formats *markup* (HTML, PDF, LaTeX, XML, docx, odt, etc.). Et c'est là où réside tout son intérêt: on écrit **une fois le contenu** et on le **publie plusieurs fois** (vers le web, le papier, une présentation, etc.)
 
